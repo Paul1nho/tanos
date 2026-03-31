@@ -1,4 +1,4 @@
-# Olá, eu sou Paulo Santana dev<tanos
+# Hey everybody, i am Paulo Santana dev<tanos
 
 💻 Estudante de Ciência da Computação
 
